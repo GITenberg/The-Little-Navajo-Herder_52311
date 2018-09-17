@@ -1,0 +1,41 @@
+_repo: The-Little-Navajo-Herder_52311
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Denetsosie, Hoke
+    aliases:
+    - Kiya Aa Nii
+    - Slim Navajo
+    - Slim Navaho
+    - Kiya Ahnii
+    - House Standing Upright
+    - Denaljosie, Hoke
+    gutenberg_agent_id: '46779'
+    url: http://www.gutenberg.org/2009/agents/46779
+creator:
+  author:
+    agent_name: Clark, Ann Nolan
+    aliases:
+    - Clark, Ann
+    - Nolan, Anna Marie
+    - Nolan, Ann
+    birthdate: 1896
+    deathdate: 1995
+    gutenberg_agent_id: '46778'
+    url: http://www.gutenberg.org/2009/agents/46778
+description: ''
+gutenberg_issued: '2016-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52311'
+  lccn: '53061095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navajo Indians -- Juvenile poetry'
+- !lcc 'PZ'
+- GITenberg
+title: The Little Navajo Herder
+url: http://www.gutenberg.org/ebooks/52311
